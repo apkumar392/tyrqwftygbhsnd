@@ -13,3 +13,5 @@ To play the game:
 
 This fun open source game was cloned from: https://github.com/jakesgordon/javascript-tetris
  ok done
+
+these are my changes
