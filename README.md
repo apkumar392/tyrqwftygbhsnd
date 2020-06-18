@@ -1,5 +1,5 @@
 ## Welcome to awesome game of Tetris
-
+this are the changes made so far perfect
 A project based learning activity for people who are getting started with Git and GitHub.
 
 To play the game:
